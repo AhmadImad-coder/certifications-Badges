@@ -22,7 +22,7 @@ Bachelor of Science in Computer Science, University of Sharjah, United Arab Emir
 ## Learning Paths, Courses and Badges
 
 ### Develop Natural Language Processing Solutions with Azure AI Services
-Microsoft Learn learning path, November 2026 • [Verify on Microsoft transcript](https://learn.microsoft.com/en-us/users/ahmadabdulhay-8302/transcript/deeraxje9rok6wd?tab=credentials-tab)
+Microsoft Learn learning path, November 2026 • [Verify on Microsoft Learn](https://learn.microsoft.com/en-us/users/ahmadabdulhay-8302/achievements)
 
 | Module badge | Date |
 |---|---|
